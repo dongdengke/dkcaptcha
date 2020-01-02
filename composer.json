@@ -1,0 +1,17 @@
+{
+    "name": "ddk/dkcaptcha",
+    "description": "this is ddk dkcaptcha test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ddk",
+            "email": "ddklsy@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": { "ddk\\captcha\\" : "src/" }
+    }
+}
